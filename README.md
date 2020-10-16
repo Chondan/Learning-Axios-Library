@@ -1,6 +1,7 @@
 # Axios
 
 - Document here: https://github.com/axios/axios
+- Tutorial: [Axios Crash Course | HTTP Library](https://www.youtube.com/watch?v=6LyagkoRWYA&t=179s) and Github: https://github.com/bradtraversy/axios-crash
 
 ## Syntax
 - `axios(url[, config])`
